@@ -375,6 +375,7 @@ html {
   border: 1px solid #000;
   padding: 10.5px 16px;
   cursor: pointer;
+  -webkit-appearance: none;
 }
 
 .contact-form .form-submit-btn:hover {
